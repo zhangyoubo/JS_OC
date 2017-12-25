@@ -1,6 +1,6 @@
 //
 //  AppDelegate.h
-//  JS_OC
+//  JS_OC 混编 javascriptCore
 //
 //  Created by  on 2017/12/6.
 //  Copyright © 2017年 张友波. All rights reserved.
