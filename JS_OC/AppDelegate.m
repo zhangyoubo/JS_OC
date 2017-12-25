@@ -1,9 +1,9 @@
 //
 //  AppDelegate.m
-//  JS_OC
+//  JS_OC 
 //
 //  Created by  on 2017/12/6.
-//  Copyright © 2017年 张友波. All rights reserved.
+//  Copyright © 2017.12.25年 张友波. All rights reserved.
 //
 
 #import "AppDelegate.h"
